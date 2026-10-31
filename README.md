@@ -12,4 +12,4 @@ This repository contains the front-end code for my Week 1 portfolio project.
   
 ## Live Portfolio
 
-[Click here to view my Portfolio]
+[Click here to view my Portfolio]https://dikshu50.github.io/Portfolio/
